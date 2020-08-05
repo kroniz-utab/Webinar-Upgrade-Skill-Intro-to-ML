@@ -1,3 +1,5 @@
+[![banner](banner.jpg)
+
 # Webinar Upgrade Skill Intro to Machine Learning
 
 Merupakan sebuah event untuk meningkatkan skill peserta serta pengetahuan dalam bidang teknologi. event ini diselenggarakan dalam 2 sesi yang diselenggarakan pada tanggal 5 Agustus dan 12 Agustus 2020 melalui media daring Zoom meeting atau Google meet.
