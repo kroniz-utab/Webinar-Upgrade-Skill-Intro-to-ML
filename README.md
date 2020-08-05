@@ -1,4 +1,4 @@
-[![banner](banner.jpg)
+![banner](banner.jpg)
 
 # Webinar Upgrade Skill Intro to Machine Learning
 
