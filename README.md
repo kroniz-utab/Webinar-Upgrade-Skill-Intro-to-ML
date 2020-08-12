@@ -11,4 +11,5 @@ Pada sesi ini juga peserta akan mendapatkan challenge berupa membuat sebuah perm
 
 ## Sesi 2 : Intro to Deep Learning & Computer Visual Recognation
 
-### (COMING SOON 12 August 2020)
+Pada sesi 2 ini, membahas tentang Deep Learning dan Jaringan Saraf Tiruan (Artificial Neural Network). Pembahasan kali ini lebih berfokus pada algoritma convolutional neural network 2 Dimensi yang digunakan sebagai Computer Visual Recognation atau Image Recognation classifier. Diperkenalkan juga Kaggle sebagai sumber dataset yang tersedia di internet yang dapat dinikmati dan digunakan dengan mudah.
+Pada sesi ini peserta mendpatkan challenge berupa sebuah project membuat permodelan convolutional neural network untuk image recognation classifier dengan menggunakan dataset image classifier yang tersedia di kaggle
